@@ -9,5 +9,3 @@ Key Features:
 - Bootstrap Framework: MoveIt utilizes the power of Bootstrap, a popular front-end framework, to enhance the website's responsiveness, layout, and overall aesthetics.
 - Information and Services: The website provides comprehensive information about the house moving services offered by MoveIt, including service details, pricing, and contact information.
 ---
-
-Feel free to customize and adapt this description to suit your specific needs.
